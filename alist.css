@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('http://api.hancat.link/cloud/api.php');//将此处替换为你自己的背景图api地址
+	background-image:url('https://img-bohe.lolicon.team/i/img/img-cdn/79059953_p1.jpg');
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
@@ -44,7 +44,7 @@ body{
     justify-content: center;
 }
 .hope-c-PJLV-ijgzmFG-css{
-    opacity: .8; !important
+    opacity: .8 !important; 
     justify-content: center;
     backdrop-filter: blur(5px);
 }
@@ -118,7 +118,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/img/img_hennyano_body.png) left bottom/contain no-repeat
+    background: url(https://static.lolicon.team/gh/Akatsuki-Misaki/Better_Alist@main/img/img_hennyano_body.png) left bottom/contain no-repeat
 }
 .sw-Hennnyano .eyes {
     width: 100%;
@@ -126,7 +126,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/img/img_hennyano_eyes.png) left bottom/contain no-repeat
+    background: url(https://static.lolicon.team/gh/Akatsuki-Misaki/Better_Alist@main/img/img_hennyano_eyes.png) left bottom/contain no-repeat
 }
 
 @media(any-hover: hover) {
